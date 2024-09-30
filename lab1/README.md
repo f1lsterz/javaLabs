@@ -1,3 +1,8 @@
+## Вимоги
+
+- Java Development Kit (JDK) 8 або новіша версія
+- Maven (для управління залежностями та запуску тестів)
+
 1. **Клонуйте репозиторій** на ваш комп'ютер:
 
 git clone https://github.com/f1lsterz/javaLabs.git
