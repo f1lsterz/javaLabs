@@ -11,12 +11,10 @@ cd javaLabs/lab1/first_lab
 
 2. Запуск програми
 
-mvn compile
+mvn clean compile
 
-mvn exec:java -Dexec.mainClass="com.example.Main"
+java -cp target/classes com.example.Main
 
 3. Запуск тестів
-
-cd javaLabs/lab1/first_lab
 
 mvn test
